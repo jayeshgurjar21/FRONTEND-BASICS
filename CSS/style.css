@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ nav{
+ padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 55px;
+    padding: 5px;
+
+}
+header{
+    background-color: burlywood;
+    height: 30px;
+
+}
+#second{
+    height: 50px;
+    width: 50px;
+    background-color: chartreuse;
+    border-radius: 50px;
+    margin: 5px;
+
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 7px;
+    display:inline-block;
+
+}
+#container{
+    border: 3px solid;
+}
+#box2{
+    z-index: 2;
+    position: absolute;
+
+}
+footer{
+    background-color: bisque;
+    font: 1em sans-serif;
+    
+}
